@@ -7,7 +7,7 @@ Why Four Pillars?
 Most free tools check one thing. Google PageSpeed checks performance. Lighthouse checks SEO. SSL checkers check... SSL. You end up using five different tools and stitching the results together yourself.
 This scanner runs all four audits in a single command and gives you a unified score per category — so you can see at a glance where your site is strong and where it's leaking.
 
-For the full detailed report — with fix instructions, priority ordering, compliance checklist, and PDF export — use FounderScan.dev.
+For the full detailed report — with fix instructions, priority ordering, compliance checklist, and PDF export — use www.FounderScan.dev.
 
 
 What It Checks
